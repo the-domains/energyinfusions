@@ -1,0 +1,28 @@
+name: EnergyInfusions
+favicon: null
+layout_spectrum: 0.48061584774404764
+typography_spectrum: 0.5108149435836822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9143345430493355
+  lightness: 0.3643713027704507
+  saturation: 0.7457235450856388
+  rhythmicContrast: 0.2926580540370196
+purpose: []
